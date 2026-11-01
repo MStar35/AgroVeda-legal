@@ -1,17 +1,18 @@
-# Privacy Policy for Krushi Mitra ("KishanBhai")
+# Privacy Policy for AgroVeda ("Krushi Mitra / KishanBhai")
 
 **Last Updated:** November 1, 2026  
 **Application Package Name:** `com.mstar.krushi_mitra`  
 **Developer / Provider:** MStar Team  
 **Governing Regulation:** Indian Digital Personal Data Protection Act (DPDP Act, 2023) & Google Play Developer Policy  
+**Live Legal Hub:** [https://mstar35.github.io/AgroVeda-legal/](https://mstar35.github.io/AgroVeda-legal/)  
 
 ---
 
 ## 1. Introduction
 
-Welcome to **Krushi Mitra** (also referred to as "KishanBhai", "we", "us", or "our"). We are dedicated to empowering Indian farmers with smart farming technology, real-time APMC mandi prices, hyper-local weather alerts, AI-driven crop disease diagnostics, and farmer-to-farmer community networking while honoring and safeguarding user privacy.
+Welcome to **AgroVeda** (also operating under the brand names "Krushi Mitra" and "KishanBhai", referred to as "we", "us", or "our"). We are dedicated to empowering Indian farmers with smart farming technology, real-time APMC mandi prices, hyper-local weather alerts, AI-driven crop disease diagnostics, and farmer-to-farmer community networking while honoring and safeguarding user privacy.
 
-This Privacy Policy explains how we collect, use, store, process, and safeguard your personal and agricultural data when you install and use the Krushi Mitra mobile application.
+This Privacy Policy explains how we collect, use, store, process, and safeguard your personal and agricultural data when you install and use the AgroVeda mobile application.
 
 > **Farmer Privacy Promise:** We do not sell, rent, monetize, or trade your personal or agricultural data to any commercial advertisers, third-party brokers, or marketing entities.
 
@@ -60,7 +61,7 @@ To deliver relevant agricultural advisory services, we collect the following typ
 - Running computer vision machine learning models to detect agricultural pests and plant pathologies.
 - Displaying real-time market rates from nearby APMC mandis.
 - Sending proactive notifications regarding impending rainfall, temperature fluctuations, or pest outbreaks.
-- Enabling farmer interactions in the Krushi Charcha community forum.
+- Enabling farmer interactions in the community forum.
 - Detecting bugs and crash diagnostics to maintain high app performance.
 
 ---
@@ -99,7 +100,7 @@ You maintain full control over your data:
 
 ## 8. Children's Privacy
 
-Krushi Mitra is designed for adult farmers and agricultural workers. We do not knowingly solicit or collect data from individuals under 13 years of age (or under 18 years in India). If we learn that personal data of a minor has been collected without parental consent, we will promptly delete it.
+AgroVeda is designed for adult farmers and agricultural workers. We do not knowingly solicit or collect data from individuals under 13 years of age (or under 18 years in India). If we learn that personal data of a minor has been collected without parental consent, we will promptly delete it.
 
 ---
 
@@ -117,5 +118,5 @@ For inquiries, privacy complaints, or data deletion requests under the Indian In
 
 - **Support & Grievance Desk:** MStar Development Team
 - **Email:** [krushimitra.app@gmail.com](mailto:krushimitra.app@gmail.com)
-- **Application:** Krushi Mitra (`com.mstar.krushi_mitra`)
+- **Application:** AgroVeda / Krushi Mitra (`com.mstar.krushi_mitra`)
 - **Jurisdiction:** Gujarat, India

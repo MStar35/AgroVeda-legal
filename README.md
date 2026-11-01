@@ -1,8 +1,18 @@
-# 🌾 Krushi Mitra - Legal & Privacy Policy Repository
+# 🌾 AgroVeda - Legal & Privacy Policy Repository
 
-Official Privacy Policy and Terms & Conditions website for **Krushi Mitra** ("KishanBhai"), modern smart farming assistance app for Indian farmers (`com.mstar.krushi_mitra`).
+Official Privacy Policy and Terms & Conditions website for **AgroVeda** ("Krushi Mitra / KishanBhai"), modern smart farming assistance app for Indian farmers (`com.mstar.krushi_mitra`).
 
-This repository contains fully styled, mobile-responsive HTML pages ready to be deployed instantly on **GitHub Pages**, as well as Markdown versions viewable directly on GitHub.
+This repository contains fully styled, mobile-responsive HTML pages deployed on **GitHub Pages**, as well as Markdown versions viewable directly on GitHub.
+
+---
+
+## 🌐 Live URLs
+
+| Page | Live URL |
+| :--- | :--- |
+| **Privacy Policy (Google Play Console URL)** | [https://mstar35.github.io/AgroVeda-legal/privacy-policy.html](https://mstar35.github.io/AgroVeda-legal/privacy-policy.html) |
+| **Terms & Conditions** | [https://mstar35.github.io/AgroVeda-legal/terms-and-conditions.html](https://mstar35.github.io/AgroVeda-legal/terms-and-conditions.html) |
+| **Legal Hub Portal** | [https://mstar35.github.io/AgroVeda-legal/](https://mstar35.github.io/AgroVeda-legal/) |
 
 ---
 
@@ -20,67 +30,24 @@ This repository contains fully styled, mobile-responsive HTML pages ready to be 
 
 ---
 
-## 🚀 How to Publish on GitHub & Enable GitHub Pages
+## ⚙️ Enabling GitHub Pages (One-Time Setup)
 
-Follow these simple steps to make your Privacy Policy and Terms live on the web:
-
-### Step 1: Create a New GitHub Repository
-1. Go to [https://github.com/new](https://github.com/new).
-2. Set Repository Name to: **`krushi-mitra-legal`** (or `khedutmitra-policies`).
-3. Set Visibility to: **Public** *(required for free GitHub Pages)*.
-4. Leave "Add a README file", ".gitignore", and "license" **unchecked** (we already have them).
-5. Click **Create repository**.
-
-### Step 2: Push This Repository to GitHub
-Open your terminal in this directory (`d:\flutter_apps\krushi-mitra-legal`) and run:
-
-```bash
-git remote add origin https://github.com/MStar35/krushi-mitra-legal.git
-git branch -M main
-git push -u origin main
-```
-
-*(Replace `MStar35` if using a different GitHub account).*
-
-### Step 3: Enable GitHub Pages in 1 Click
-1. In your GitHub repository, click on **Settings** (gear icon at the top).
-2. In the left sidebar, click **Pages** (under the "Code and automation" section).
-3. Under **Build and deployment** > **Source**, choose **Deploy from a branch**.
-4. Under **Branch**, select **`main`** and folder **`/(root)`**.
-5. Click **Save**.
-6. Wait 1-2 minutes. GitHub will show a green banner:  
-   `"Your site is live at https://mstar35.github.io/krushi-mitra-legal/"`.
-
----
-
-## 🌐 Your Live URLs
-
-Once published, your URLs will be:
-
-| Page | Live URL |
-| :--- | :--- |
-| **Privacy Policy (Google Play URL)** | `https://mstar35.github.io/krushi-mitra-legal/privacy-policy.html` |
-| **Terms & Conditions** | `https://mstar35.github.io/krushi-mitra-legal/terms-and-conditions.html` |
-| **Legal Hub** | `https://mstar35.github.io/krushi-mitra-legal/` |
+To make these pages live at the URLs above:
+1. Open this repository on GitHub: [https://github.com/MStar35/AgroVeda-legal](https://github.com/MStar35/AgroVeda-legal).
+2. Click **Settings** (gear icon in the top navigation).
+3. In the left sidebar, click **Pages** (under *Code and automation*).
+4. Under **Build and deployment > Source**, select **Deploy from a branch**.
+5. Under **Branch**, select **`main`** and folder **`/(root)`**.
+6. Click **Save**.
+7. Wait ~1 minute. GitHub will publish your site to `https://mstar35.github.io/AgroVeda-legal/`.
 
 ---
 
 ## 📱 Google Play Console Submission
 
-When submitting to Google Play Console:
+When publishing or updating your app on Google Play Console:
 1. Open [Google Play Console](https://play.google.com/console).
 2. Go to your app > **Policy and programs** > **App content**.
 3. Under **Privacy Policy**, paste your live Privacy Policy link:  
-   `https://mstar35.github.io/krushi-mitra-legal/privacy-policy.html`
+   `https://mstar35.github.io/AgroVeda-legal/privacy-policy.html`
 4. Click **Save**.
-
----
-
-## 💡 Alternative: Hosting via Existing `khedutmitra` Repo
-
-If you prefer not to create a separate repository, the identical files are also placed in the `/docs` folder of your existing `khedutmitra` repository:
-1. In `https://github.com/MStar35/khedutmitra` > **Settings** > **Pages**.
-2. Select **Branch: `main`**, and Folder: **`/docs`**.
-3. Your live URLs will be:  
-   - `https://mstar35.github.io/khedutmitra/privacy-policy.html`  
-   - `https://mstar35.github.io/khedutmitra/terms-and-conditions.html`
