@@ -87,5 +87,5 @@ These Terms are governed by and construed in accordance with the laws of the Rep
 If you have questions or concerns regarding these Terms, please contact:
 
 - **AgroVeda Legal & Support:** MStar Team
-- **Email:** [agroveda.app@gmail.com](mailto:agroveda.app@gmail.com)
+- **Email:** [lbyello35@gmail.com](mailto:lbyello35@gmail.com)
 - **Application Package:** `com.mstar.krushi_mitra`
