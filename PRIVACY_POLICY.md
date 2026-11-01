@@ -90,7 +90,7 @@ You maintain full control over your data:
 
 - **Profile Modification:** Update your name, village, land size, and crop choices in the app at any time under `Profile > Edit Profile`.
 - **Permanent Account Deletion:** You have the right to request permanent deletion of your account and all associated data.
-  - To request account and data deletion, email **lbyello35@gmail.com** with the subject:  
+  - To request account and data deletion, email [lby****35@gmail.com](mailto:lbyello35@gmail.com) with the subject:  
     `"Account Deletion Request - [Your Registered Phone Number]"`.
   - All personal profile information, crop entries, and forum posts will be purged permanently from our active production systems within 7 business days.
 
@@ -115,6 +115,6 @@ AgroVeda is designed for adult farmers and agricultural workers. We do not knowi
 For inquiries, privacy questions, or data deletion requests, please reach out to:
 
 - **Support & Grievance Desk:** AgroVeda Support Team
-- **Email:** [lbyello35@gmail.com](mailto:lbyello35@gmail.com)
+- **Email:** [lby****35@gmail.com](mailto:lbyello35@gmail.com)
 - **Application:** AgroVeda
 - **Jurisdiction:** Gujarat, India

@@ -86,4 +86,4 @@ These Terms are governed by and construed in accordance with the laws of the Rep
 If you have questions or concerns regarding these Terms, please contact:
 
 - **AgroVeda Support Desk:** AgroVeda Team
-- **Email:** [lbyello35@gmail.com](mailto:lbyello35@gmail.com)
+- **Support Contact:** [Contact Support Desk](mailto:lbyello35@gmail.com)
