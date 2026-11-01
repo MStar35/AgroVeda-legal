@@ -1,4 +1,4 @@
-# Terms and Conditions for AgroVeda ("Krushi Mitra / KishanBhai")
+# Terms and Conditions for AgroVeda 
 
 **Last Updated:** November 1, 2026  
 **Application Package Name:** `com.mstar.krushi_mitra`  
@@ -9,7 +9,7 @@
 
 ## 1. Acceptance of Terms
 
-These Terms and Conditions ("Terms") govern your access to and use of the **AgroVeda** mobile application (also operating under the names "Krushi Mitra" and "KishanBhai", referred to as "we", "us", or "our"). 
+These Terms and Conditions ("Terms") govern your access to and use of the **AgroVeda** mobile application (also operating under the names "AgroVeda" and "AgroVeda", referred to as "we", "us", or "our"). 
 
 By downloading, installing, registering, or using this application, you agree to comply with and be bound by these Terms and our [Privacy Policy](PRIVACY_POLICY.md). If you do not accept these Terms in full, do not use the application.
 
@@ -64,7 +64,7 @@ We reserve the right to remove any non-compliant content and terminate user acce
 
 ## 7. Intellectual Property
 
-The AgroVeda and Krushi Mitra names, logos, graphic designs, UI components, computer code, algorithms, and documentation are proprietary assets owned by the development team and protected under applicable copyright and intellectual property laws of India.
+The AgroVeda name, logos, graphic designs, UI components, computer code, algorithms, and documentation are proprietary assets owned by the development team and protected under applicable copyright and intellectual property laws of India.
 
 ---
 
@@ -87,5 +87,5 @@ These Terms are governed by and construed in accordance with the laws of the Rep
 If you have questions or concerns regarding these Terms, please contact:
 
 - **AgroVeda Legal & Support:** MStar Team
-- **Email:** [krushimitra.app@gmail.com](mailto:krushimitra.app@gmail.com)
+- **Email:** [agroveda.app@gmail.com](mailto:agroveda.app@gmail.com)
 - **Application Package:** `com.mstar.krushi_mitra`

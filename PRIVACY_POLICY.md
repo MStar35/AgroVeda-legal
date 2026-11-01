@@ -1,4 +1,4 @@
-# Privacy Policy for AgroVeda ("Krushi Mitra / KishanBhai")
+# Privacy Policy for AgroVeda 
 
 **Last Updated:** November 1, 2026  
 **Application Package Name:** `com.mstar.krushi_mitra`  
@@ -10,7 +10,7 @@
 
 ## 1. Introduction
 
-Welcome to **AgroVeda** (also operating under the brand names "Krushi Mitra" and "KishanBhai", referred to as "we", "us", or "our"). We are dedicated to empowering Indian farmers with smart farming technology, real-time APMC mandi prices, hyper-local weather alerts, AI-driven crop disease diagnostics, and farmer-to-farmer community networking while honoring and safeguarding user privacy.
+Welcome to **AgroVeda** (also operating under the brand names "AgroVeda" and "AgroVeda", referred to as "we", "us", or "our"). We are dedicated to empowering Indian farmers with smart farming technology, real-time APMC mandi prices, hyper-local weather alerts, AI-driven crop disease diagnostics, and farmer-to-farmer community networking while honoring and safeguarding user privacy.
 
 This Privacy Policy explains how we collect, use, store, process, and safeguard your personal and agricultural data when you install and use the AgroVeda mobile application.
 
@@ -92,7 +92,7 @@ You maintain full control over your data:
 
 - **Profile Modification:** Update your name, village, land size, and crop choices in the app at any time under `Profile > Edit Profile`.
 - **Permanent Account Deletion:** You have the right to request permanent deletion of your account and all associated data.
-  - To request account and data deletion, email **krushimitra.app@gmail.com** with the subject:  
+  - To request account and data deletion, email **agroveda.app@gmail.com** with the subject:  
     `"Account Deletion Request - [Your Registered Phone Number]"`.
   - All personal profile information, crop entries, and forum posts will be purged permanently from our active production systems within 7 business days.
 
@@ -117,6 +117,6 @@ AgroVeda is designed for adult farmers and agricultural workers. We do not knowi
 For inquiries, privacy complaints, or data deletion requests under the Indian Information Technology Act, 2000 and DPDP Act, 2023, please reach out to:
 
 - **Support & Grievance Desk:** MStar Development Team
-- **Email:** [krushimitra.app@gmail.com](mailto:krushimitra.app@gmail.com)
-- **Application:** AgroVeda / Krushi Mitra (`com.mstar.krushi_mitra`)
+- **Email:** [agroveda.app@gmail.com](mailto:agroveda.app@gmail.com)
+- **Application:** AgroVeda (`com.mstar.krushi_mitra`)
 - **Jurisdiction:** Gujarat, India
