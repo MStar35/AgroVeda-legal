@@ -1,6 +1,6 @@
 # 🌾 AgroVeda - Legal & Privacy Policy Repository
 
-Official Privacy Policy and Terms & Conditions website for **AgroVeda** , modern smart farming assistance app for Indian farmers (`com.mstar.krushi_mitra`).
+Official Privacy Policy and Terms & Conditions website for **AgroVeda** , modern smart farming assistance app for Indian farmers.
 
 This repository contains fully styled, mobile-responsive HTML pages deployed on **GitHub Pages**, as well as Markdown versions viewable directly on GitHub.
 

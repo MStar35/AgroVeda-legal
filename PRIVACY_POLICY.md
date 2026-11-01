@@ -1,8 +1,6 @@
 # Privacy Policy for AgroVeda 
 
 **Last Updated:** November 1, 2026  
-**Application Package Name:** `com.mstar.krushi_mitra`  
-**Developer / Provider:** MStar Team  
 **Governing Regulation:** Indian Digital Personal Data Protection Act (DPDP Act, 2023) & Google Play Developer Policy  
 **Live Legal Hub:** [https://mstar35.github.io/AgroVeda-legal/](https://mstar35.github.io/AgroVeda-legal/)  
 
@@ -10,7 +8,7 @@
 
 ## 1. Introduction
 
-Welcome to **AgroVeda** (also operating under the brand names "AgroVeda" and "AgroVeda", referred to as "we", "us", or "our"). We are dedicated to empowering Indian farmers with smart farming technology, real-time APMC mandi prices, hyper-local weather alerts, AI-driven crop disease diagnostics, and farmer-to-farmer community networking while honoring and safeguarding user privacy.
+Welcome to **AgroVeda** (referred to as "we", "us", or "our"). We are dedicated to empowering Indian farmers with smart farming technology, real-time APMC mandi prices, hyper-local weather alerts, AI-driven crop disease diagnostics, and farmer-to-farmer community networking while honoring and safeguarding user privacy.
 
 This Privacy Policy explains how we collect, use, store, process, and safeguard your personal and agricultural data when you install and use the AgroVeda mobile application.
 
@@ -116,7 +114,7 @@ AgroVeda is designed for adult farmers and agricultural workers. We do not knowi
 
 For inquiries, privacy complaints, or data deletion requests under the Indian Information Technology Act, 2000 and DPDP Act, 2023, please reach out to:
 
-- **Support & Grievance Desk:** MStar Development Team
+- **Support & Grievance Desk:** AgroVeda Support Team
 - **Email:** [lbyello35@gmail.com](mailto:lbyello35@gmail.com)
-- **Application:** AgroVeda (`com.mstar.krushi_mitra`)
+- **Application:** AgroVeda
 - **Jurisdiction:** Gujarat, India

@@ -1,7 +1,6 @@
 # Terms and Conditions for AgroVeda 
 
 **Last Updated:** November 1, 2026  
-**Application Package Name:** `com.mstar.krushi_mitra`  
 **Governing Law:** Republic of India (Jurisdiction: Gujarat, India)  
 **Live Legal Hub:** [https://mstar35.github.io/AgroVeda-legal/](https://mstar35.github.io/AgroVeda-legal/)  
 
@@ -9,7 +8,7 @@
 
 ## 1. Acceptance of Terms
 
-These Terms and Conditions ("Terms") govern your access to and use of the **AgroVeda** mobile application (also operating under the names "AgroVeda" and "AgroVeda", referred to as "we", "us", or "our"). 
+These Terms and Conditions ("Terms") govern your access to and use of the **AgroVeda** mobile application (referred to as "we", "us", or "our"). 
 
 By downloading, installing, registering, or using this application, you agree to comply with and be bound by these Terms and our [Privacy Policy](PRIVACY_POLICY.md). If you do not accept these Terms in full, do not use the application.
 
@@ -86,6 +85,5 @@ These Terms are governed by and construed in accordance with the laws of the Rep
 
 If you have questions or concerns regarding these Terms, please contact:
 
-- **AgroVeda Legal & Support:** MStar Team
+- **AgroVeda Support Desk:** AgroVeda Team
 - **Email:** [lbyello35@gmail.com](mailto:lbyello35@gmail.com)
-- **Application Package:** `com.mstar.krushi_mitra`
