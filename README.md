@@ -21,7 +21,7 @@ This repository contains fully styled, mobile-responsive HTML pages deployed on 
 | File | Description | Purpose |
 | :--- | :--- | :--- |
 | `index.html` | Portal landing page with cards linking to policies | Main website hub |
-| `privacy-policy.html` | Complete Privacy Policy (Google Play & DPDP Act 2023 compliant) | **Google Play Console Privacy Policy URL** |
+| `privacy-policy.html` | Complete Privacy Policy (Google Play compliant) | **Google Play Console Privacy Policy URL** |
 | `terms-and-conditions.html` | Complete Terms & Conditions with agricultural advisory disclaimer | In-app legal & terms redirect |
 | `style.css` | Clean, responsive stylesheet with agricultural green theme | Mobile & desktop styling |
 | `PRIVACY_POLICY.md` | Markdown format of the Privacy Policy | Direct GitHub viewing |

@@ -1,7 +1,7 @@
 # Privacy Policy for AgroVeda 
 
 **Last Updated:** November 1, 2026  
-**Governing Regulation:** Indian Digital Personal Data Protection Act (DPDP Act, 2023) & Google Play Developer Policy  
+**Standard:** Google Play Developer Policy & User Privacy Standards  
 **Live Legal Hub:** [https://mstar35.github.io/AgroVeda-legal/](https://mstar35.github.io/AgroVeda-legal/)  
 
 ---
@@ -112,7 +112,7 @@ AgroVeda is designed for adult farmers and agricultural workers. We do not knowi
 
 ## 10. Grievance Officer & Contact Details
 
-For inquiries, privacy complaints, or data deletion requests under the Indian Information Technology Act, 2000 and DPDP Act, 2023, please reach out to:
+For inquiries, privacy questions, or data deletion requests, please reach out to:
 
 - **Support & Grievance Desk:** AgroVeda Support Team
 - **Email:** [lbyello35@gmail.com](mailto:lbyello35@gmail.com)
