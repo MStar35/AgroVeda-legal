@@ -61,7 +61,24 @@ We reserve the right to remove any non-compliant content and terminate user acce
 
 ---
 
-## 7. Intellectual Property
+## 7. Government Information Sources & Non-Affiliation Disclaimer
+
+AgroVeda provides educational awareness and informational links to official government portals for farmer convenience:
+- **i-Khedut Portal (Gujarat Government):** https://ikhedut.gujarat.gov.in
+- **PM-KISAN (Government of India):** https://pmkisan.gov.in
+- **PM Fasal Bima Yojana (PMFBY):** https://pmfby.gov.in
+- **PM-KUSUM (MNRE):** https://pmkusum.mnre.gov.in
+- **Soil Health Card Portal:** https://soilhealth.dac.gov.in
+- **Pradhan Mantri Krishi Sinchayee Yojana (PMKSY):** https://pmksy.gov.in
+- **myScheme National Portal:** https://myscheme.gov.in
+- **AnyRoR Gujarat Land Records:** https://anyror.gujarat.gov.in
+- **iORA Gujarat Revenue Portal:** https://iora.gujarat.gov.in
+
+**Disclaimer:** AgroVeda is an independent technological platform and is **NOT affiliated with, endorsed by, authorized by, or in any way officially connected to any Central or State Government department or agency**. All scheme and land record information is aggregated from publicly accessible official government websites for educational awareness only.
+
+---
+
+## 8. Intellectual Property
 
 The AgroVeda name, logos, graphic designs, UI components, computer code, algorithms, and documentation are proprietary assets owned by the development team and protected under applicable copyright and intellectual property laws of India.
 

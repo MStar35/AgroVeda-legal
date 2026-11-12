@@ -110,7 +110,24 @@ AgroVeda is designed for adult farmers and agricultural workers. We do not knowi
 
 ---
 
-## 10. Grievance Officer & Contact Details
+## 10. Government Information Sources & Non-Affiliation Disclaimer
+
+AgroVeda aggregates and references official government welfare schemes and land records for farmer awareness:
+- **i-Khedut Portal (Government of Gujarat):** https://ikhedut.gujarat.gov.in (Agri Subsidies & Machinery)
+- **PM-KISAN (Government of India):** https://pmkisan.gov.in (PM Kisan Samman Nidhi)
+- **PM Fasal Bima Yojana (PMFBY):** https://pmfby.gov.in (Crop Insurance)
+- **PM-KUSUM Scheme (MNRE):** https://pmkusum.mnre.gov.in (Solar Pump Subsidy)
+- **Soil Health Card Portal (DAC&FW):** https://soilhealth.dac.gov.in (Soil Testing)
+- **Pradhan Mantri Krishi Sinchayee Yojana (PMKSY):** https://pmksy.gov.in (Micro Irrigation)
+- **myScheme National Portal:** https://myscheme.gov.in (KCC & PM Kisan Maandhan)
+- **AnyRoR Gujarat Land Records (Revenue Department):** https://anyror.gujarat.gov.in (7/12 & 8-A Records)
+- **iORA Gujarat Revenue Applications:** https://iora.gujarat.gov.in
+
+**Non-Government Platform Declaration:** AgroVeda is an independent agricultural platform and is **NOT affiliated with, endorsed by, authorized by, or in any way officially associated with any Central or State Government department, ministry, or agency**. AgroVeda does not represent any government entity, issue official approvals, or process official government applications.
+
+---
+
+## 11. Grievance Officer & Contact Details
 
 For inquiries, privacy questions, or data deletion requests, please reach out to:
 
